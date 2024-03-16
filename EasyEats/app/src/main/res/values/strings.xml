@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyEats</string>
+    <string name="textview">EasyEats</string>
+    <string name="button">EasyEats</string>
+    <string name="button1">home</string>
+    <string name="text2">home</string>
+    <string name="button3">signup</string>
+    <string name="text4">signup</string>
+    <string name="button2">login</string>
+
+</resources>
